@@ -36,3 +36,7 @@ employees a minimum of $90,000
 - The company is not gender biased in its recruitment as supposed, with male being 465 and female being 441, there is no gender gap. This is also reflected in the gender distribution in the companys' location and departments.
 - The company also does show any form of gender bia. in its' salary structure.
 
+## Complete Analysis
+
+
+[Palmoria-Group-emp- DSA data Analysis.xlsb.xlsx](https://github.com/user-attachments/files/21321504/Palmoria-Group-emp-.DSA.data.Analysis.xlsb.xlsx)
